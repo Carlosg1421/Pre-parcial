@@ -1,4 +1,3 @@
-DROP DATABASE pentestdb;
 CREATE DATABASE pentestdb;
 
 USE pentestdb;
