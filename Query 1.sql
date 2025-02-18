@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS parcial_plan_tienda;
 CREATE DATABASE parcial_plan_tienda;
 USE parcial_plan_tienda;
 
